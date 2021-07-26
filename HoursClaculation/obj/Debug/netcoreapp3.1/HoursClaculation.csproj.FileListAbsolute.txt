@@ -1,0 +1,17 @@
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\HoursClaculation.exe
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\HoursClaculation.deps.json
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\HoursClaculation.runtimeconfig.json
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\HoursClaculation.runtimeconfig.dev.json
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\HoursClaculation.dll
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\HoursClaculation.pdb
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.csproj.AssemblyReference.cache
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.AssemblyInfoInputs.cache
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.AssemblyInfo.cs
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.csproj.CoreCompileInputs.cache
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.dll
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.pdb
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.genruntimeconfig.cache
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\oavioz\source\repos\HoursClaculation\HoursClaculation\obj\Debug\netcoreapp3.1\HoursClaculation.csproj.CopyComplete

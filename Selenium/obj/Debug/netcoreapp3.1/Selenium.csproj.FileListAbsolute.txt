@@ -1,0 +1,17 @@
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\Selenium.exe
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\Selenium.deps.json
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\Selenium.runtimeconfig.json
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\Selenium.runtimeconfig.dev.json
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\Selenium.dll
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\Selenium.pdb
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.csproj.AssemblyReference.cache
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfoInputs.cache
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfo.cs
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.csproj.CopyComplete
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.dll
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.pdb
+C:\Users\oavioz\source\repos\HoursClaculation\Selenium\obj\Debug\netcoreapp3.1\Selenium.genruntimeconfig.cache
